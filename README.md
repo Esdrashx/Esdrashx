@@ -17,26 +17,6 @@ Tenho experiência com automação de tarefas, integração de sistemas e desenv
 
 ---
 
-## 📊 Estatísticas GitHub
-
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right:10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Esdrashx&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-  />
-
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right:10px;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esdrashx&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7"
-  />
-
----
-
 ## 🤖 Linguagens & Tecnologias
 
 ### 🔹 Linguagens e Automação (RPA)
@@ -95,11 +75,3 @@ Automação de processos repetitivos com integração de arquivos e sistemas.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([SEU-LINK-DO-LINKEDIN](https://www.linkedin.com/in/esdras-t-m/))
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:esdrashx@gmail.com)
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
